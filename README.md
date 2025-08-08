@@ -1,2 +1,2 @@
 # CurriculoWeb
-Atividade juiana
+Atividade juliana
